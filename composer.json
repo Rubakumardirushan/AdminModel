@@ -1,0 +1,25 @@
+{
+    "name": "dirushan/models",
+    "description": "admin model package",
+    "type": "package",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dirushan\\Models\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Dirushan\\Models\\ModelServiceProvider"
+            ]
+        }
+    },
+    "authors": [
+        {
+            "name": "dirushan"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
