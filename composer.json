@@ -20,6 +20,6 @@
             "name": "dirushan"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
